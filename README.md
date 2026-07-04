@@ -35,17 +35,17 @@ An additional exploratory run (`checkpoints/experiments/checkpoint_accurate.pth`
 
 ## Demo
 
-Evaluation episodes from the trained (baseline) agent, no exploration:
+Evaluation episodes from the trained (baseline) agent, no exploration (GIFs — full-quality MP4s are in [`videos/`](videos/)):
 
 <table>
 <tr>
-<td><video src="https://raw.githubusercontent.com/Balu-monish/lunar-lander-dqn/master/videos/rl-video-episode-0.mp4" controls width="220"></video></td>
-<td><video src="https://raw.githubusercontent.com/Balu-monish/lunar-lander-dqn/master/videos/rl-video-episode-1.mp4" controls width="220"></video></td>
-<td><video src="https://raw.githubusercontent.com/Balu-monish/lunar-lander-dqn/master/videos/rl-video-episode-2.mp4" controls width="220"></video></td>
+<td><img src="videos/gifs/episode_0.gif" width="220"></td>
+<td><img src="videos/gifs/episode_1.gif" width="220"></td>
+<td><img src="videos/gifs/episode_2.gif" width="220"></td>
 </tr>
 <tr>
-<td><video src="https://raw.githubusercontent.com/Balu-monish/lunar-lander-dqn/master/videos/rl-video-episode-3.mp4" controls width="220"></video></td>
-<td><video src="https://raw.githubusercontent.com/Balu-monish/lunar-lander-dqn/master/videos/rl-video-episode-4.mp4" controls width="220"></video></td>
+<td><img src="videos/gifs/episode_3.gif" width="220"></td>
+<td><img src="videos/gifs/episode_4.gif" width="220"></td>
 </tr>
 </table>
 
