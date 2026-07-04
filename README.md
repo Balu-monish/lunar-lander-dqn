@@ -33,6 +33,22 @@ Full analysis — including training curves, exploration/target-network tradeoff
 
 An additional exploratory run (`checkpoints/experiments/checkpoint_accurate.pth`) was trained but isn't covered in the report.
 
+## Demo
+
+Evaluation episodes from the trained (baseline) agent, no exploration:
+
+<table>
+<tr>
+<td><video src="https://raw.githubusercontent.com/Balu-monish/lunar-lander-dqn/master/videos/rl-video-episode-0.mp4" controls width="220"></video></td>
+<td><video src="https://raw.githubusercontent.com/Balu-monish/lunar-lander-dqn/master/videos/rl-video-episode-1.mp4" controls width="220"></video></td>
+<td><video src="https://raw.githubusercontent.com/Balu-monish/lunar-lander-dqn/master/videos/rl-video-episode-2.mp4" controls width="220"></video></td>
+</tr>
+<tr>
+<td><video src="https://raw.githubusercontent.com/Balu-monish/lunar-lander-dqn/master/videos/rl-video-episode-3.mp4" controls width="220"></video></td>
+<td><video src="https://raw.githubusercontent.com/Balu-monish/lunar-lander-dqn/master/videos/rl-video-episode-4.mp4" controls width="220"></video></td>
+</tr>
+</table>
+
 ## Repo structure
 
 ```
